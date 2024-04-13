@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186326400243",
+    "project_id": "patronus-2680d",
+    "storage_bucket": "patronus-2680d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186326400243:android:f4ea8f839cbfcb8c094b86",
+        "android_client_info": {
+          "package_name": "com.example.patronus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJXdkARO3eUcrU_fg8n5gVy3x4lVDRzYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
