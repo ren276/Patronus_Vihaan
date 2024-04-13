@@ -26,23 +26,23 @@ function BookAppointment() {
           <span>Why Choose Health</span>
         </h3>
         <p className="ba-description">
-          Discover the reasons to choose Health Plus for your healthcare needs.
+          Discover the reasons to choose Patronus for your healthcare needs.
           Experience expert care, convenience, and personalized solutions,
           making your well-being our top priority. Join us on a journey to
           better health and a happier life.
         </p>
 
         <p className="ba-checks ba-check-first">
-          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> Best Professional Doctors
+          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> Best AI Model solution
         </p>
         <p className="ba-checks">
-          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> Emergency Care
+          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> report generation
         </p>
         <p className="ba-checks">
-          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> 24/7 Support Live Chat
+          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> Alert and risk monitoring
         </p>
         <p className="ba-checks ba-check-last">
-          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> Enrollment Easy and Quick
+          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> accessible in 
         </p>
 
         <button

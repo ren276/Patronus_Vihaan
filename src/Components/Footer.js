@@ -10,13 +10,11 @@ function Footer() {
         <div className="ft-info">
           <div className="ft-info-p1">
             <p className="ft-title">
-              Health <span className="ft-sign">+</span>
+              patronus <span className="ft-sign">+</span>
             </p>
             <p className="ft-description">
-              Talk to online doctors and get medical advice, online
-              prescriptions, refills and medical notes within minutes. On-demand
-              healthcare services at your fingertips.
-            </p>
+              scan image after that according to pre-trained data  set our AI model help us to  detect 
+              early stage of skin cancer,it is accessible in multi-language so that better reach and awareness can be created </p>
           </div>
 
           <SubscribeNewsletter />
@@ -29,17 +27,9 @@ function Footer() {
               <a href="#services">Emergency Care</a>
             </li>
             <li>
-              <a href="#services">Heart Disease</a>
+              <a href="#services">Skin Disease</a>
             </li>
-            <li>
-              <a href="#services">Dental Care</a>
-            </li>
-            <li>
-              <a href="#services">Prescription</a>
-            </li>
-            <li>
-              <a href="#services">Insights for doctors</a>
-            </li>
+            
           </ul>
         </div>
 
@@ -68,30 +58,30 @@ function Footer() {
           <p className="ft-list-title">Talk To Us</p>
           <ul className="ft-list-items">
             <li>
-              <a href="mailto:support@healthplus.com">support@healthplus.com</a>
+              <a href="mailto:mishrajaikumar283@gmail.com">mishrajaikumar283@gmail.com</a>
             </li>
             <li>
-              <a href="mailto:appointment@healthplus.com">
-                appointment@healthplus.com
+              <a href="mailto:mishrajaikumar283@gmail.com">
+                mishrajaikumar283@gmail.com
               </a>
             </li>
             <li>
-              <a href="tel:+022 5454 5252">+022 5454 5252</a>
+              <a href="tel:+91-9910418624">+91-9910418624</a>
             </li>
             <li>
-              <a href="tel:+022 2326 6232">+022 2326 6232</a>
+              <a href="tel:+91-9910418624">+91-9910418624</a>
             </li>
           </ul>
         </div>
       </div>
 
       <div className="ft-copyright">
-        <p>© 2013-2023 Health+. All rights reserved.</p>
+        <p>© 2024-2025 Patronus. All rights reserved.</p>
 
         <ul className="ft-social-links">
           <li>
             <a
-              href="https://linkedin.com/in/Alkaison/"
+              href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"
               title="LinkedIn"
               target="_blank"
               rel="noopener noreferrer"
@@ -125,8 +115,8 @@ function Footer() {
 
           <li>
             <a
-              href="https://x.com/Alkaison/"
-              title="Twitter"
+              href="https://www.instagram.com/accounts/onetap/?next=%2F&hl=en"
+              title="instagram"
               target="_blank"
               rel="noopener noreferrer"
             >

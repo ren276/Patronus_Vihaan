@@ -11,12 +11,8 @@ function Info() {
           <span>What We Do</span>
         </h3>
         <p className="info-description">
-          We bring healthcare to your convenience, offering a comprehensive
-          range of on-demand medical services tailored to your needs. Our
-          platform allows you to connect with experienced online doctors who
-          provide expert medical advice, issue online prescriptions, and offer
-          quick refills whenever you require them.
-        </p>
+        we detect skin cancer in early stage and connect you to the healthcare expert if patient give there concern to 
+        report</p>report
       </div>
 
       <div className="info-cards-content">
@@ -40,14 +36,8 @@ function Info() {
           icon={faHeartPulse}
         />
 
-        <InformationCard
-          title="Dental Care"
-          description="Smile with confidence as our Dental Care services cater to all your
-            oral health needs. Our skilled dentists provide a wide range of
-            treatments, from routine check-ups and cleanings to cosmetic
-            procedures and restorative treatments."
-          icon={faTooth}
-        />
+        
+        
       </div>
     </div>
   );

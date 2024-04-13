@@ -1,52 +1,52 @@
-export const customerReviews = [
+export const peopleViews = [
     {
-      "name": "Esther Howard",
-      "location": "Texas, USA",
-      "message": "Health Plus transformed my healthcare experience! The online consultations were so convenient, and the doctors were knowledgeable and caring."
+      "name": "Dr Lipy Gupta",
+      "location": "New delhi , delhi",
+      "message": "She is excellent dermatogist in delhi in there guidance many patients are  get cure of skin cancer"
     },
     {
-      "name": "John Doe",
-      "location": "California, USA",
-      "message": "I found the perfect specialist for my condition through Health Plus. The personalized treatment plan made all the difference. Thank you for prioritizing my health!"
+      "name": "Dr. Manas Chopra's Skin Clinic ",
+      "location": "A-5-B, 170-A, Service Rd, Janakpuri, New Delhi, Delhi 110058",
+      "message": "Effective Treatment! Dr. is very polite and friendly. Highly Recommended!"
     },
     {
-      "name": "Alice Smith",
-      "location": "New York, USA",
-      "message": "Booking appointments was a breeze, and the service exceeded my expectations. The doctors truly listen and provide effective solutions. 5 stars!"
+      "name": "Divine Skinsthetic",
+      "location": " Shop No 4 Basement Punjabi Bagh, Club Rd",
+      "message": " Shop No 4 Basement Punjabi Bagh, Club Rd, West Punjabi Bagh, New Delhi, Delhi 110026"
     },
     {
-      "name": "Bob Johnson",
-      "location": "Florida, USA",
-      "message": "Health Plus is a game-changer! The emergency care saved me during a critical situation. Grateful for their quick and efficient support."
+      "name": "Dr Mahima Agrawal",
+      "location": " BP 53 Maurya Enclave Pitampura Near Kohat Enclave Metro Station",
+      "message": "MiraDerm (Estb 1998) is a state of the art dermatology & cosmetology centre offering various dermatological and aesthetic solutions."
     },
     {
-      "name": "Jane Brown",
-      "location": "Washington, USA",
-      "message": "I used to dread dental visits, but Health Plus made it a pleasant experience. The dentist was gentle and professional. I'll definitely be back!"
+      "name": "Majestic Hair And Skin Clinic",
+      "location": "Rajouri Garden Extension, Rajouri Garden, Delhi, 110027",
+      "message": "Most people are surprised there is virtually no pain during an FUE Hair Transplant procedure done under a local anesthetic"
     },
     {
-      "name": "Robert Wilson",
-      "location": "Texas, USA",
-      "message": "Finally, a healthcare platform that puts patients first! The heart disease service provided comprehensive care and regular follow-ups. Thank you, Health Plus!"
+      "name": "The SkinVision clinic",
+      "location": "Sector 43, Gurugram, Haryana 122001",
+      "message": ". She knows her work really well. She’s always there to help even at odd hours"
     },
     {
-      "name": "Mary Lee",
-      "location": "California, USA",
-      "message": "I've been using Health Plus for a variety of health concerns, and each time, I received exceptional care. It's my go-to for all medical needs!"
+      "name": "Dr Tanvi Gupta Arora",
+      "location": "Rajouri Garden, New Delhi, Delhi 110027",
+      "message": "Dr. Tanvi is an amazing dermatologist. She listens to the problem very patiently and suggests the best in class treatment for effective recovery."
     },
     {
-      "name": "David Miller",
-      "location": "Texas, USA",
-      "message": "I highly recommend Health Plus for online consultations. It's convenient, secure, and the doctors are top-notch. Great job, team!"
+      "name": "Park Hospital",
+      "location": "nagpur,maharastra",
+      "message": "Providing exceptional care and a comfortable environment for our patients"
     },
     {
-      "name": "Sarah Johnson",
-      "location": "Florida, USA",
-      "message": "The convenience of accessing medical notes online was fantastic. Health Plus made managing my health records hassle-free! Best Healthcare services."
+      "name": "RasaDerm",
+      "location": "noida",
+      "message": "Their fillers and treatments are really impressive. Skin becomes really satisfactory"
     },
     {
-      "name": "Michael Brown",
-      "location": "New York, USA",
-      "message": "As a busy professional, Health Plus has been a lifesaver. Quick prescriptions and refills without compromising on quality care. Thank you!"
+      "name": "Dr Sagar Sharma ",
+      "location": "new delhi ",
+      "message": "A very genuine person who first listen and then treat the patient. I was suffering from melasma and now after 3 months It's cured."
     }
 ];

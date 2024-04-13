@@ -15,13 +15,12 @@ function About() {
           <span>About Us</span>
         </h3>
         <p className="about-description">
-          Welcome to Health Plus, your trusted partner for accessible and
-          personalized healthcare. Our expert doctors offer online consultations
-          and specialized services, prioritizing your well-being. Join us on
-          this journey towards a healthier you.
+          Welcome to Patronus , your trusted partner for accessible and
+          personalized early stage skin cancer or 
+    other skin desease detection 
         </p>
 
-        <h4 className="about-text-title">Your Solutions</h4>
+        <h4 className="about-text-title">Our Model </h4>
 
         <SolutionStep
           title="Choose a Specialist"
@@ -35,7 +34,7 @@ function About() {
 
         <SolutionStep
           title="Get Your Solutions"
-          description="Our experienced doctors and specialists are here to provide expert advice and personalized treatment plans, helping you achieve your best possible health."
+          description="Our AI based solution detect .early stage cancer and report generation as well add  on to this we suggest health expert also "
         />
       </div>
     </div>

@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import { customerReviews } from "../Scripts/reviews";
+import { peopleViews } from "../Scripts/reviews";
 import "../Styles/Reviews.css";
 
 function Reviews() {
   let rMessage, rName, rLocation;
-  const reviewsLength = customerReviews.length - 1;
+  const reviewsLength = peopleViews.length - 1;
   const [review, setReview] = useState(0);
 
   // back to previous review
@@ -21,7 +21,7 @@ function Reviews() {
 
   // update reviews
   const handleReviewsUpdation = () => {
-    const reviewMessage = customerReviews[review];
+    const reviewMessage = peopleViews[review];
     rName = reviewMessage.name;
     rLocation = reviewMessage.location;
     rMessage = reviewMessage.message;
@@ -34,10 +34,10 @@ function Reviews() {
     <div className="review-section" id="reviews">
       <div className="rw-text-content">
         <p className="rw-text-title">
-          More over <span className="rw-text-num">1500+ Customers</span>
+          More over <span className="rw-text-num"></span>
         </p>
 
-        <p className="rw-text-desc">Don't believe us, Check clients word</p>
+        <p className="rw-text-desc">Small initiative for better  Bharat</p>
 
         <p className="rw-text-format">
           <span className="rw-text-quote1">''</span>
